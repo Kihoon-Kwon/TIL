@@ -2,7 +2,8 @@
 
 - 배우고 실습한 내용들을 기록
 - 데이터 사이언티스트/엔지니어링 과정의 성공적인 수료를 위한 기록
-- ![Kihoon's github stats](https://github-readme-stats.vercel.app/api?username=Kihoon-Kwon&show_icons=true&theme=tokyonight)
+
+  ![Kihoon's github stats](https://github-readme-stats.vercel.app/api?username=Kihoon-Kwon&show_icons=true&theme=tokyonight)
 
 ## 앞으로 해야할 것들
 

@@ -29,7 +29,9 @@
 3. 아는 거라고 대충 넘어가지 말자
 4. 이 과정 외의 학습한 부분들도 가능한 한 최대한 열심히 기록해두자
 
-## 다양한 공모전
+## 다양한 공모전 및 사이트
 
 - [KOPIS 빅데이터 분석 공모전 개최 안내](https://www.gokams.or.kr/01_news/notice_view.aspx?Idx=3288&page=1&txtKeyword=&ddlKeyfield=T)
 - [2022 데이터안심구역 활용 경진대회](https://dszcontest.kr/info)
+- [빅 카인즈](https://www.bigkinds.or.kr/)
+- [뉴스빅데이터해커톤](https://www.2022newsbigdata.com/)

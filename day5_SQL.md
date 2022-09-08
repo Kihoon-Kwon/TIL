@@ -38,6 +38,7 @@
   ```SQL
   CREATE TABLE new_tbl(SELECT 복사할 열 FROM 기존테이블)
   ```
+  ---
 ### GROUP BY 및 HAVING 그리고 집계 함수
 
 - GROUP BY
